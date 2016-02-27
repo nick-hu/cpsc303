@@ -11,3 +11,5 @@ Assignment 1: Numerical errors in forward and backward recursive integral comput
 Assignment 2: Polynomial interpolation with monomial and Lagrange bases
 
 Assignment 3: Piecewise polynomial interpolation (cubic splines, piecewise cubic Hermite polynomials); Bézier curves
+
+Assignment 4: Trigonometric polynomial interpolation with the discrete Fourier transform; magnitudes and phases of Fourier coefficients; lossy image compression with the discrete cosine transform

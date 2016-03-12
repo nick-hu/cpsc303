@@ -15,3 +15,5 @@ Assignment 3: Piecewise polynomial interpolation (cubic splines, piecewise cubic
 Assignment 4: Trigonometric polynomial interpolation with the discrete Fourier transform; magnitudes and phases of Fourier coefficients; lossy image compression with the discrete cosine transform
 
 Assignment 5: Numerical differentiation with finite differences; noisy numerical differentiation; automatic differentiation with Autograd (Python/NumPy)
+
+Assignment 6: Composite quadrature (trapezoidal, midpoint, Simpson, Gaussian); numerical integration with Chebfun

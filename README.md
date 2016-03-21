@@ -13,3 +13,4 @@
 **4** |Trigonometric polynomial interpolation with the discrete Fourier transform; magnitudes and phases of Fourier coefficients; lossy image compression with the discrete cosine transform
 **5** |Numerical differentiation with finite differences; noisy numerical differentiation; automatic differentiation with Autograd (Python/NumPy)
 **6** |Composite quadrature (trapezoidal, midpoint, Simpson, Gaussian); numerical integration with Chebfun
+**7** |Monte Carlo approximation of pi; comparison with quadrature; multidimensional integration; quasi-Monte Carlo integration; rejection and importance sampling

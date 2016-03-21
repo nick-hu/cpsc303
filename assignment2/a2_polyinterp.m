@@ -1,5 +1,5 @@
 %{
-CPSC 303 Assignment 2
+CPSC 303 Assignment 2: Problem 2
 Polynomial Interpolation
 Nicholas Hu
 %}

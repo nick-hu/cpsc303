@@ -1,5 +1,5 @@
 %{
-CPSC 303 Assignment 1: Question 3
+CPSC 303 Assignment 1: Problem 3
 Recursive Integration and Numerical Errors
 Nicholas Hu
 %}

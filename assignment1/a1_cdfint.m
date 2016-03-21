@@ -1,5 +1,5 @@
 %{
-CPSC 303 Assignment 1: Question 4
+CPSC 303 Assignment 1: Problem 4
 The Cumulative Distribution Function (CDF)
 Nicholas Hu
 %}

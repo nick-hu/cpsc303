@@ -1,5 +1,5 @@
 %{
-CPSC 303 Assignment 0
+CPSC 303 Assignment 0: Problem 4
 Speed of Matrix Multiplication
 Nicholas Hu
 %}

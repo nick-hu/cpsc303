@@ -15,3 +15,4 @@
 **6** |Composite quadrature (trapezoidal, midpoint, Simpson, Gaussian); numerical integration with Chebfun
 **7** |Monte Carlo approximation of pi; comparison with quadrature; multidimensional integration; quasi-Monte Carlo integration; rejection and importance sampling
 **8** |Forward Euler, backward Euler, and implicit trapezoidal methods; stiff ODEs and stability; quadrature with ODE solvers; the Hodgkin-Huxley model of electrical activity in the squid giant axon
+**9** |_Capstone_: Pollution simulation with the convection-diffusion PDE and Weibull-distributed wind

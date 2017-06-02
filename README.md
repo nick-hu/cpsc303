@@ -1,8 +1,6 @@
 # cpsc303
 
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/dct_linquant.png" width="30%" display="inline-block">
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/squidaxon.png" width="30%" display="inline-block">
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/pollution.gif" width="30%" display="inline-block">
+<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/dct_linquant.png" width="30%" display="inline-block"><img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/squidaxon.png" width="30%" display="inline-block"><img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/pollution.gif" width="30%" display="inline-block">
 
 **CPSC 303**: Numerical Approximation and Discretization (2015W T2) assignments
 
@@ -19,8 +17,6 @@
 **8** |Forward Euler, backward Euler, and implicit trapezoidal methods; stiff ODEs and stability; quadrature with ODE solvers; the Hodgkin-Huxley model of electrical activity in the squid giant axon
 **9** |_Capstone_: Pollution spread simulation with the convection-diffusion PDE (finite differences for spatial derivatives; backward Euler discretization in time) and Weibull-distributed wind 
 
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/polyinterp.png" width="30%" display="inline-block">
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/splineinterp.png" width="30%" display="inline-block">
-<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/quaderror.png" width="30%" display="inline-block">
+<img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/polyinterp.png" width="30%" display="inline-block"><img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/splineinterp.png" width="30%" display="inline-block"><img src="https://raw.githubusercontent.com/nick-hu/cpsc303/master/gallery/quaderror.png" width="30%" display="inline-block">
 
 More plots and images can be found [here](https://github.com/nick-hu/cpsc303/tree/master/gallery).
